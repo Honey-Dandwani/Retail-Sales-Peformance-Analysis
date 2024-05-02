@@ -128,8 +128,6 @@ Transact : Each transaction records order Id, product Id, location postal code r
 
 Link - https://lucid.app/lucidchart/c7ba9f38-0b2b-4a14-a9a2-db625b1a85d9/edit?page=0_0&invitationId=inv_14e36bc6-329d-430b-9ea0-c99ce5ee256f#
 
-![Summary_Page](https://github.com/nikunjachoure/Retail-store-performance-analysis-SQL/blob/main/Retail%20Store%20-%20Query%20Screenshots/ERD.png?raw=true)
-
 ### Relationships
 
 **Work: binary relationship**
