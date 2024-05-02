@@ -9,8 +9,6 @@ To analyse transaction history of Retail Store in order to optimally allocate pe
 
 Dataset Source Link - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-Refined Dataset Link - https://github.com/nikunjachoure/Retail-store-performance-analysis-SQL/blob/main/Retail_Store_Main.xlsx
-
 Initially, the dataset had **21 columns** and **9994 rows**. I have refined the dataset to minimize the records to  **18 columns** and **9800 rows** for feasibility of my project scope. **6 tables** have been created using this dataset. 
 
 Details of the Refined Dataset - 
